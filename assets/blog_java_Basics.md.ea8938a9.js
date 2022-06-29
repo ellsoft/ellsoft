@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t}from"./app.4ff0327b.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blog/java/Basics.md"}'),s={name:"blog/java/Basics.md"};function r(o,c,n,i,p,_){return t(),e("div")}var m=a(s,[["render",r]]);export{l as __pageData,m as default};
